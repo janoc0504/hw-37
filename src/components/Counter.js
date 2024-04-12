@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class EmojiCounter extends Component {
+class EmojiCounter extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
